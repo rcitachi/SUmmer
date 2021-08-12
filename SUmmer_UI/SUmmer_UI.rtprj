@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <GlobalSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ProjectName="SUmmer_UI" DefaultWinWidth="480" DefaultWinHeight="272" DefaultColorFormat="RGB888" DefaultFont="FONT16" DefaultImageFormat=".png" EditorFontSize="14" ProjectParentName="" Language="Chinese">
+  </GlobalSetting>
+  <Solution>
+    <SUmmer_UI SubType="Project">
+      <UI文件 SubType="UIFile">
+        <page1 SubType="PageDirectory">
+          <page1.js SubType="PageJs" />
+          <page1.ui SubType="PageUi" />
+        </page1>
+      </UI文件>
+      <app.js SubType="AppJs" />
+    </SUmmer_UI>
+  </Solution>
+</Project>

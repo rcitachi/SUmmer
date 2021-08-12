@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rtgui version="1.4.20200918">
+<class>Page</class>
+<widget class="Page" name="page1">
+<public>
+<property name="backgroundImg">__11.png</property>
+</public>
+<widgets>
+<widget name="Canvas1" class="Canvas">
+<public>
+<property name="rect">0, 0, 480, 270</property>
+<property name="background">0, 212, 208, 200</property>
+</public>
+</widget>
+</widgets>
+</widget>
+</rtgui>
